@@ -3,36 +3,36 @@ Socket Call is a real-time video calling web application that allows users to cr
 
 Features:-
 
-. Real-time video calling
+- Real-time video calling
 
-. Create and join meeting rooms
+- Create and join meeting rooms
 
-. User authentication
+- User authentication
 
-. Meeting history tracking
+- Meeting history tracking
 
-. Secure and protected routes
+- Secure and protected routes
 
-. Responsive user interface
+- Responsive user interface
 
 Tools & Technologies:-
 
-. Frontend
+- Frontend
 
-. React.js
+- React.js
 
-. Context API
+- Context API
 
-. CSS Modules
+- CSS Modules
 
-. Material UI
+- Material UI
 
-. Backend
+- Backend
 
-. Node.js
+- Node.js
 
-. Express.js
+- Express.js
 
-Socket.io
+- Socket.io
 
-MongoDB
+- MongoDB
