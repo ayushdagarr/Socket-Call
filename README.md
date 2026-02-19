@@ -1,6 +1,6 @@
 Socket Call
 
-Socket Call is a real-time video calling web application that allows users to create and join meetings instantly. It provides a smooth and interactive communication experience using real-time technologies.
+Socket Call is a real-time video calling web application that allows users to create and join meetings instantly. It provides a smooth and interactive communication experience with features like live chat messaging and screen sharing, powered by modern real-time technologies.
 
 Features:-
 
